@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Udacity_5_QuizApp</string>
+    <string name="title">Android Basics Revision</string>
+    <string name="main_screen_text">Test your knowledge of the Udacity Android Basics Course!</string>
+    <string name="start">Start</string>
+    <string name="submit">Submit</string>
+    <string name="try_again"><xliff id="score">%d</xliff>/5 Try Again!</string>
+    <string name="success">5/5 Congratulations!</string>
+
+    <string name="question1">Question 1</string>
+    <string name="question2">Question 2</string>
+    <string name="question3">Question 3</string>
+    <string name="question4">Question 4</string>
+    <string name="question5">Question 5</string>
+
+    <string name="question1_text">Which of these is NOT a correct layout?</string>
+    <string name="question2_text">Which of these is a valid data type?</string>
+    <string name="question3_text">How many child views can a LinearLayout contain?</string>
+    <string name="question4_text">How many different values can a Boolean variable have?</string>
+    <string name="question5_text">What do you think of this quiz?</string>
+
+    <string name="question1_option1">RelativeLayout</string>
+    <string name="question1_option2">HorizontalLayout</string>
+    <string name="question1_option3">LinearLayout</string>
+    <string name="question1_option4">ConstraintLayout</string>
+
+    <string name="question2_option1">String</string>
+    <string name="question2_option2">Text</string>
+    <string name="question2_option3">Dots</string>
+    <string name="question2_option4">DecimalNumber</string>
+
+    <string name="question3_option1">10</string>
+    <string name="question3_option2">50</string>
+    <string name="question3_option3">LinearLayout is not limited</string>
+    <string name="question3_option4">100</string>
+
+    <string name="question4_option1">4</string>
+    <string name="question4_option2">1</string>
+    <string name="question4_option3">Infinite</string>
+    <string name="question4_option4">2</string>
+
+    <string name="question5_option1">It\'s meh...</string>
+    <string name="question5_option2">Is alright</string>
+    <string name="question5_option3">This quiz is amazing!</string>
+    <string name="question5_option4">I want to marry you!</string>
+</resources>
